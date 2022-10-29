@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo -e "hello gitz!"
+echo -e "hello!"
 
